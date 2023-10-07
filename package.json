@@ -1,0 +1,28 @@
+{
+  "name": "ci-cd-pipeline-practice",
+  "version": "1.0.0",
+  "description": "This is an example project that demonstrates the basic setup of a TypeScript environment with Node.js and unit tests using the Jest library. This project has been created for the purpose of practicing setting up a Continuous Integration/Continuous Deployment (CI/CD) pipeline.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroph23/ci-cd-pipeline-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroph23/ci-cd-pipeline-practice/issues"
+  },
+  "homepage": "https://github.com/pedroph23/ci-cd-pipeline-practice#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.5",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1"
+  }
+}
